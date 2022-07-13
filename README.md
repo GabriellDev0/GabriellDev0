@@ -13,7 +13,7 @@ I've been learning to code for 10 months now. I started with HTML and CSS, Then 
 
 * 🌍  I'm based in Brazil, São Luis - MA.
 * ✉️  You can contact me at [gabrielldev0@gmail.com](mailto:gabrielldev0@gmail.com)
-* 🧠  I'm learning Vue Composition API , TypeScript and Firebase.
+* 🧠  I'm learning React JS , TypeScript and Firebase.
 * ⚡  I'm the type of person that if you ask a question and I don't know the answer, I'll say I don't know, but I bet I can find the answer and I'll find the answer.
 
 <a href="https://www.github.com/GabriellDev0" target="_blank" rel="noreferrer"><img
