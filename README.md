@@ -52,4 +52,13 @@ src="https://img.shields.io/github/followers/GabriellDev0?logo=github&style=for-
 
 <b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/GabriellDev0/friends-gram" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabriellDev0&repo=friends-gram&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/GabriellDev0/projeto-board" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabriellDev0&repo=projeto-board&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 <div width="100%" align="center"><a href="https://github.com/GabriellDev0/thaynara-og" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabriellDev0&repo=thaynara-og&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+
+
+
