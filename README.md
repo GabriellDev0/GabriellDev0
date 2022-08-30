@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Web Development
 -------------------------
 
-I've been learning to code for 11 months now. I started with HTML and CSS, Then i started studying JavaScript and i Loved it. After practicing a lot of JavaScript, I fell in love with the Vue framework and today i continue to improve my skills with Vue. Some characteristics about my Person: 
+I've been upgrading an encoder for 1 year. I installed it with HTML and CSS, then studying JavaScript and I loved this stack. After practicing a lot of JavaScript, I fell in love with the Vue framework but I took a look at React and I fell in love even more, today I continue to improve my skills with React. Some characteristics of my Person: 
   -  Proactive; 
   -  I do not give up; 
   -  Learning new things everyday; 
